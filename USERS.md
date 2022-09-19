@@ -85,6 +85,7 @@ Currently, the following organizations are **officially** using Argo Workflows:
 1. [Greenhouse](https://greenhouse.io)
 1. [H2O.ai](https://h2o.ai/)
 1. [Habx](https://www.habx.com/)
+1. [Harness](https://harness.io/)
 1. [Helio](https://helio.exchange)
 1. [Hemisphere Digital](https://hemisphere.digital)
 1. [HOVER](https://hover.to)
